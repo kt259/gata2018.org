@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>gata2018.org</title>
+<!-- Stylesheets -->
+<link href="css/bootstrap.css" rel="stylesheet">
+<link href="css/revolution-slider.css" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
+<!-- Responsive -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<link href="css/responsive.css" rel="stylesheet">
+<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+</head>
+
+<body>
+<div class="page-wrapper">
+ 	
+    <!-- Preloader -->
+    <div class="preloader"></div>
+ 	
+    <!-- Main Header -->
+    <header class="main-header">
+    	<div class="auto-container clearfix">
+        	<!--Logo-->
+            <!--<div class="logo"><a href="index-2.html"><img src="images/logo.jpg" alt="" title=""></a></div>-->
+            
+            <!--Main Menu-->
+            <nav class="main-menu">
+                <div class="navbar-header">
+                    <!-- Toggle Button -->      
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                
+                <div class="navbar-collapse collapse clearfix">                                                                                              
+                    <ul class="navigation">
+                        <li class="dropdown"><a href="index.html">Home</a>
+                            
+                        </li>
+                        
+                        <li class="dropdown"><a href="organizers.html">Organizers</a>
+                            
+                        </li>
+						<li class="dropdown"><a href="speakers.html">Speakers</a>
+                            
+                        </li>
+                        <li class="current dropdown"><a href="program.html">Program</a>
+                            
+                        </li>
+						
+						<li class="dropdown"><a href="venue.html">Venue</a>
+                            
+                        </li>
+						
+						<li class="dropdown"><a href="registration.html">Registration</a>
+                            
+                        </li>
+						
+						<li class="dropdown"><a href="abstracts.html">Abstracts</a></li>
+                            
+                        
+						
+						<li class="dropdown"><a href="travel.html">Travel</a>
+                            
+                        </li>
+						
+						<li class="dropdown"><a href="crete.html">Crete</a>
+                            
+                        </li>
+						
+						<li class="dropdown"><a href="travel-awards.html">Travel Awards</a></li>
+						
+                        <li class="dropdown"><a href="sponsors.html">Sponsors</a>
+                            
+                        </li>
+                        
+                        <li><a href="contact.html">Contact</a></li>
+						
+                    </ul>
+                </div>
+            </nav>
+            <!--Main Menu End-->
+            
+        </div>
+    </header>
+    <!--End Main Header -->
+    
+    <!-- Page Banner -->
+    <section class="page-banner" style="background-image:url(images/main-slider/image-2.jpg);">
+    	<div class="auto-container">
+        	<h1>Provisional Program</h1>
+        </div>
+    </section>
+    
+    <!--Schedule Section-->
+    <section class="schedule-section">
+        <div class="auto-container">
+            
+			<div class="text-center">
+                <a href="files/Program-20171220.pdf" class="download-btn theme-btn"><span class="fa fa-file-pdf-o"></span> DOWNLOAD .PDF Program</a>
+            </div>
+
+            
+            <!--Schedule Box-->
+            <div class="schedule-box clearfix wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
+                
+                <!--Tab Buttons-->
+                <ul class="tab-buttons clearfix">
+                    <li class="tab-btn active" data-id="#monday"><span class="day">Monday</span><span class="date">28/05/2018</span><span class="curve"></span></li>
+                    <li class="tab-btn" data-id="#tuesday"><span class="day">Tuesday</span><span class="date">29/05/2018</span><span class="curve"></span></li>
+                    <li class="tab-btn" data-id="#wednesday"><span class="day">Wednesday</span><span class="date">30/05/2018</span><span class="curve"></span></li>
+                    <li class="tab-btn" data-id="#thursday"><span class="day">Thursday</span><span class="date">31/05/2018</span><span class="curve"></span></li>
+                    <li class="tab-btn" data-id="#friday"><span class="day">Friday</span><span class="date">01/06/2018</span><span class="curve"></span></li>
+                    
+                </ul>
+                
+                <!--Tabs Box-->
+                <div class="tabs-box">
+                    
+                    <!--Tab / Current / Monday-->
+                    <div class="tab current" id="monday">
+                        
+                        <div class="hour-box active-box">
+                            <div class="hour">14:00</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn active"><h3>REGISTRATION OPEN</h3></div>
+                            <div class="content-box">
+                                <div class="content">
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="hour-box">
+                            <div class="hour">15:30</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>OPENING REMARKS: John Strouboulis</h3></div>
+                            <div class="content-box">
+                                <div class="content">
+								</div>
+                            </div>
+                        </div>
+                        
+                        <div class="hour-box">
+                            <div class="hour">15:40 - 18:00</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>SESSION 1: GATA FACTORS IN INVERTEBRATE DEVELOPMENT</h3></div>
+                            <div class="content-box collapsed">
+                                <div class="content"><p><strong>Jim McGhee</strong>: The GATA Factor Network Controlling the C. elegans Endoderm</br>
+								<strong>Joel Rothman</strong>: GATA factors in developmental plasticity, reprogramming, and "transorganogenesis” in C. elegans</br>
+								<strong>Rolf Reuter</strong>: Conserved and variant functions of GATA factors in insects</br>
+								<strong>Bob Schulz</strong>: GATA factor function in Drosophila hematopoiesis</br>
+								<strong>Two short talks selected from the abstracts</strong>
+								</p>
+								</div>
+                                
+                            </div>
+                        </div>
+                        <!--
+                        <div class="hour-box">
+                            <div class="hour">19:30</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>Welcome cocktail</h3></div>
+                            <div class="content-box">
+                                
+                            </div>
+                        </div>
+                        -->
+                        <div class="hour-box">
+                            <div class="hour">18:00 - 18:30</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>COFFEE BREAK</h3></div>
+                            <div class="content-box">
+                                
+                            </div>
+                        </div>
+						
+						<div class="hour-box">
+                            <div class="hour">18:30 - 19:15</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>KEYNOTE LECTURΕ: Masayuki Yamamoto</h3></div>
+                            <div class="content-box">
+                                <div class="content-box collapsed">
+									<div class="content"><p>GATA transcription factors: a quarter century of discoveries</p>
+									</div>
+								</div>
+                            </div>
+                        </div>
+                        
+						<div class="hour-box">
+                            <div class="hour">19:30 - 20:30</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>WELCOME DRINK</h3></div>
+                            <div class="content-box">
+                                
+                            </div>
+                        </div>
+						
+						<div class="hour-box">
+                            <div class="hour">20:30</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>DINNER</h3></div>
+                            <div class="content-box">
+                                
+                            </div>
+                        </div>
+						
+                    </div>
+                    
+                    <!--Tab / Tuesday-->
+                    <div class="tab" id="tuesday">
+                        <!--<p><strong>SESSION 2: GATA FACTORS IN TRANSCRIPTIONAL REGULATION</strong></br>&nbsp;</p>-->
+                        <div class="hour-box active-box">
+                            <div class="hour">08:30-10:00</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn active"><h3>SESSION 2: GATA FACTORS IN TRANSCRIPTIONAL REGULATION</h3></div>
+                            <div class="content-box collapsed">
+                                <div class="content">
+								<p>
+								<strong>Jacqueline Matthews</strong>: Assembling GATA1-containing transcriptional complexes</br>
+								<strong>Emery Bresnick</strong>: Interplay of GATA factors in erythroid differentiation</br>
+								<strong>Claus Nerlov</strong>: GATA1 transcriptional networks in myeloid progenitor specification
+								</p>
+								</div>
+                                
+                            </div>
+                        </div>
+                        
+                        						
+						<div class="hour-box">
+                            <div class="hour">10:00-10:30</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>COFFEE BREAK</h3></div>
+                            
+                        </div>
+						
+						
+						<div class="hour-box">
+                            <div class="hour">10:30-12:00</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>SESSION 2 (continued): GATA FACTORS IN TRANSCRIPTIONAL REGULATION</h3></div>
+                            <div class="content-box collapsed">
+                                <div class="content">
+								<p>
+								<strong>John Strouboulis</strong>: GATA1 and FOG-1 interplay in erythroid gene regulation</br>
+								<strong>Tomonori Hosoya</strong>: GATA3 regulation in T cell transcriptional networks</br>
+								<strong>Two short talks selected from the abstracts</strong>
+								</p></div>
+     
+                            </div>
+                        </div>
+						
+                        												
+						<div class="hour-box">
+                            <div class="hour">12:00-13:30</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>LUNCH</h3></div>
+                            
+                        </div>
+						
+						<div class="hour-box">
+                            <div class="hour">13:30-15:00</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>SESSION 3: GATA FACTORS  IN HEMATOPOIESIS</h3></div>
+                            <div class="content-box collapsed">
+                                <div class="content">
+								<p>
+								<strong>EMBO KEYNOTE LECTURE: Roger Patient</strong>: Gata2 expression is under constant surveillance throughout HSC development</br>
+								<strong>Catherine Porcher</strong>: Structure/function relationship between GATA and bHLH tramscription factors during blood specification</br>
+								<strong>Laura Gutierrez</strong>: Fine-tuning of dendritic cell function by Gata1
+								</p>
+								</div>
+     
+                            </div>
+                        </div>
+						
+											
+						<div class="hour-box">
+                            <div class="hour">15:00-15:30</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>COFFEE BREAK</h3></div>
+                            
+                        </div>
+						
+						<div class="hour-box">
+                            <div class="hour">15:30-17:00</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>SESSION 3 (continued): GATA FACTORS IN HEMATOPOIESIS</h3></div>
+                            <div class="content-box collapsed">
+                                <div class="content">
+								<p>
+								<strong>Elaine Dzierzak</strong>: Single cells transitioning to hematopoietic fate show pulsatile Gata2 expression</br>
+								<strong>John Crispino</strong>: GATA1 mutations in erythromegakaryocyte development</br>
+								<strong>Two short talks selected from the abstracts</strong>
+
+								</p>
+								</div>
+     
+                            </div>
+                        </div>
+						
+						<div class="hour-box">
+                            <div class="hour">17:00-17:45</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>EMBO SCIENCE POLICY LECTURE</h3></div>
+                            <div class="content-box collapsed">
+                                <div class="content"><p><strong>Mona Nemer</strong>: Scientists and science policy intersection</p></div>
+     
+                            </div>
+                        </div>
+						
+												
+						<div class="hour-box">
+                            <div class="hour">18:00</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>DINNER</h3></div>
+                            <div class="content-box collapsed">
+                                <div class="content"><p></p></div>
+     
+                            </div>
+                        </div>
+						
+						<div class="hour-box">
+                            <div class="hour">19.30-21.30</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>POSTER SESSION 1</h3></div>
+                            <div class="content-box">
+                                
+                            </div>
+                        </div>
+                        
+                    </div>
+                
+                    <!--Tab / Wednesday-->
+                    <div class="tab" id="wednesday">
+                        
+                        <div class="hour-box active-box">
+                            <div class="hour">08:30-10:00</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn active"><h3>SESSION 4: GATA FACTORS IN DEVELOPMENT OF THE IMMUNE SYSTEM</h3></div>
+                            <div class="content-box collapsed">
+                                <div class="content">
+								<p>
+								<strong>Doug Engel</strong>: GATA factors in early thymocyte development</br>
+								<strong>Jinfang (Jeff) Zhu</strong>: A critical role of GATA3 in the development of innate lymphoid cell subsets</br>
+								<strong>Rudi Hendriks</strong>: Differential role for GATA3 in T helper 2 cells and group 2 innate lymphoid cells
+								</p>
+								</div>
+                                
+                            </div>
+                        </div>
+                        
+                        						
+						<div class="hour-box">
+                            <div class="hour">10:00-10:30</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>COFFEE BREAK</h3></div>
+                            
+                        </div>
+						
+						<div class="hour-box">
+                            <div class="hour">10:30-12:30</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>SESSION 4 (continued): GATA FACTORS IN DEVELOPMENT OF THE IMMUNE SYSTEM</h3></div>
+                            <div class="content-box collapsed">
+                                <div class="content">
+								<p>
+								<strong>Ellen Rothenberg</strong>: GATA3 is at the fulcrum of early T-lineage developmental decisions</br>
+								<strong>Avinash Bandoola</strong>: GATA3 and TCF-1 collaborate in the development of T cells and innate lymphocytes</br>
+								<strong>Ryan Wilcox</strong>: GATA-3 as a novel therapeutic target in T-cell lymphomas</br>
+								<strong>Two short talks selected from the abstracts</strong>
+								</p>
+								</div>
+                                
+                            </div>
+                        </div>
+						
+						<div class="hour-box">
+                            <div class="hour">12:00-14:00</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>LUNCH</h3></div>
+                            
+                        </div>
+						
+						<div class="hour-box">
+                            <div class="hour">14:00-15:30</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>SESSION 5: GATA FACTORS AND ORGAN DEVELOPMENT</h3></div>
+							<div class="content-box collapsed">
+                                <div class="content">
+								<p>
+								<strong>Mona Nemer</strong>: Cardiac generation and maintenance by GATA factors</br>
+								<strong>Heikki Ruskoaho</strong>: GATA4 in myocardial remodelling</br>
+								<strong>Anna-Katerina Hadjantonakis</strong>: Gata6 and the network driving cell fate choice to or away from pluripotency
+								</p>
+								</div>
+                                
+                            </div>
+                            
+                        </div>
+					
+						<div class="hour-box">
+                            <div class="hour">15:30-16:00</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>COFFEE BREAK</h3></div>
+                            
+                        </div>
+						
+						<div class="hour-box">
+                            <div class="hour">16:00-17:30</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>SESSION 5 (continued): GATA FACTORS AND ORGAN DEVELOPMENT</h3></div>
+							<div class="content-box collapsed">
+                                <div class="content">
+								<p>
+								<strong>Anabel Rojas</strong>: GATA factors in pancreas and liver development and disease</br>
+								<strong>Sergei Tevosian</strong>: GATA factors in adrenal development and disease</br>
+								<strong>Two short talks selected from the abstracts</strong>
+
+								</p>
+								</div>
+                                
+                            </div>
+                            
+                        </div>
+						
+						<div class="hour-box">
+                            <div class="hour">17:30-18:15</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>WOMEN IN SCIENCE LECTURE: Elaine Dzierzak</h3></div>
+							<div class="content-box collapsed">
+                                <div class="content">
+								<p>
+								Career opportunities for women in research and academia.
+								</p>
+								</div>
+                                
+                            </div>
+                            
+                        </div>
+						<div class="hour-box">
+                            <div class="hour">18:15</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>DINNER</h3></div>
+							
+                            
+                        </div>
+						
+						<div class="hour-box">
+                            <div class="hour">19:30-21:30</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>POSTER SESSION 2</h3></div>
+                            
+                        </div>
+                        
+                    </div>
+                
+                    <!--Tab / Thursday-->
+                    <div class="tab" id="thursday">
+                        
+                        <div class="hour-box active-box">
+                            <div class="hour">08:30-10:30</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn active"><h3>SESSION 6: GATA FACTORS AND HUMAN DISEASE</h3></div>
+                            <div class="content-box collapsed">
+                                <div class="content">
+								<p>
+								<strong>Yogen Saunthararajah</strong>: GATA4 loss of function in liver cancer</br> 
+								<strong>Anna Rita Migliaccio</strong>: GATA1 mutations in myelofibrosis<br>
+								<strong>Irene Roberts</strong>: GATA1, trisomy 21 and childhood leukemia<br>
+								<strong>Paresh Vyas</strong>: GATA1 and Down syndrome associated leukemia<br>
+																
+								</p>
+								</div>
+                                
+                            </div>
+                        </div>
+                        
+                      					
+						<div class="hour-box">
+                            <div class="hour">10:30-11:00</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>COFFEE BREAK</h3></div>
+                            
+                        </div>
+						
+						<div class="hour-box">
+                            <div class="hour">11:00-13:00</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>SESSION 6 (continued): GATA FACTORS AND HUMAN DISEASE</h3></div>
+                            <div class="content-box collapsed">
+                                <div class="content">
+								<p>
+								<strong>Yehudit Birger</strong>: GATA factors in congenital erythroid disorders</br>
+								<strong>Venetia Bigley</strong>: Hematopoietic and immune defects associated with GATA2 mutation in humans</br>
+								<strong>Marshall Horwitz</strong>: Therapeutic opportunities for GATA2 deficiency syndrome</br>
+								<strong>Two short talk selected from the abstracts</strong>
+
+								</p>
+								</div>
+                                
+                            </div>
+                        </div>
+                        
+												
+						<div class="hour-box">
+                            <div class="hour">13:00-14:30</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>LUNCH</h3></div>
+                            
+                        </div>
+						
+											
+						<div class="hour-box">
+                            <div class="hour">14:30-16:30</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>SESSION 6 (continued): GATA FACTORS AND HUMAN DISEASE</h3></div>
+                            <div class="content-box collapsed">
+                                <div class="content">
+								<p>
+								<strong>Ritsuko Shimizu</strong>: Imbalance of GATA1 function in leukemogenesis</br>
+								<strong>Ruud Delwel</strong>: GATA2 and acute myeloid leukemia</br>
+								<strong>Mikiko Suzuki</strong>: GATA2 haploinsufficiency accelerates leukemogenesis in mouse models</br>
+								<strong>Two short talks selected from the abstracts</strong>
+
+								</p>
+								</div>
+                                
+                            </div>
+                        </div>
+						
+						
+						<div class="hour-box">
+                            <div class="hour">16:30-17:00</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>COFFEE BREAK</h3></div>
+                            
+                        </div>
+						
+						<div class="hour-box">
+                            <div class="hour">17:00-18:00</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>OPEN DISCUSSION: GATA FACTORS AS THERAPEUTIC TARGETS</h3></div>
+                            <div class="content-box collapsed">
+                                <div class="content"><p><strong><strong>CLOSING REMARKS: Doug Engel</strong></p></div>
+                                
+                            </div>
+                        </div>
+						
+												
+						<div class="hour-box">
+                            <div class="hour">19:00</div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>FAREWELL DINNER</h3></div>
+                            
+                        </div>
+                        
+                    </div>
+                
+                    <!--Tab / Friday-->
+                    <div class="tab" id="friday">
+                        
+						
+						<div class="hour-box">
+                            <div class="hour"></div>
+                            <div class="img-circle circle"><span></span></div>
+                            <div class="toggle-btn"><h3>BREAKFAST AND DEPARTURE</h3></div>
+                            
+                        </div>
+						<p>&nbsp;</p>
+						<p>&nbsp;</p>
+						<p>&nbsp;</p>
+						<p>&nbsp;</p>
+						<p>&nbsp;</p>
+						<p>&nbsp;</p>
+						
+                    </div>
+                
+                    
+                    
+                </div>
+                <!--Tabs Box End-->
+                
+            </div>
+            <!--Schedule Box End-->
+    
+    
+    
+</div>
+<!--End pagewrapper-->
+
+<!--Main Footer-->
+    <footer class="main-footer">
+    	<!--Footer Upper-->
+    	<div class="footer-upper">
+		
+			<div class="auto-container">
+            	<div class="row clearfix">
+                	
+                    <!--Footer Widget-->
+                    <div class="col-md-9 col-sm-9 col-xs-12 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    	<div class="footer-widget contact-widget">
+                        	<div class="text">Copyright 2018 - <a href="http://www.meetis.gr" target="_blank">Meetis.gr</a></div>
+                        </div>
+                    </div>
+					
+					
+				</div>
+			</div>
+			
+        	
+			
+			
+        </div>
+        
+        
+    </footer>
+
+<!--Scroll to top-->
+<div class="scroll-to-top"></div>
+
+
+<script src="js/jquery.js"></script> 
+<script src="js/bootstrap.min.js"></script>
+<script src="js/revolution.min.js"></script>
+<script src="js/bxslider.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/jquery.fancybox.pack.js"></script>
+<script src="js/wow.js"></script>
+<script src="js/jquery.countdown.js"></script>
+<script src="js/script.js"></script>
+</body>
+</html>

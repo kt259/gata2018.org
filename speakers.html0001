@@ -1,0 +1,697 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>gata2018.org</title>
+<!-- Stylesheets -->
+<link href="css/bootstrap.css" rel="stylesheet">
+<link href="css/revolution-slider.css" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
+<!-- Responsive -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<link href="css/responsive.css" rel="stylesheet">
+<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+
+</head>
+
+<body>
+<div class="page-wrapper">
+ 	
+    <!-- Preloader -->
+    <div class="preloader"></div>
+ 	
+    <!-- Main Header -->
+    <header class="main-header">
+    	<div class="auto-container clearfix">
+        	<!--Logo-->
+            <!--<div class="logo"><a href="index-2.html"><img src="images/logo.jpg" alt="Meeton" title="Meeton"></a></div>-->
+            
+            <!--Main Menu-->
+            <nav class="main-menu">
+                <div class="navbar-header">
+                    <!-- Toggle Button -->      
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                
+                <div class="navbar-collapse collapse clearfix">                                                                                              
+                    <ul class="navigation">
+                        <li class="dropdown"><a href="index.html">Home</a>
+                            
+                        </li>
+                        
+                        <li class="dropdown"><a href="organizers.html">Organizers</a>
+                            
+                        </li>
+						<li class="current dropdown"><a href="speakers.html">Speakers</a>
+                            
+                        </li>
+                        <li class="dropdown"><a href="program.html">Program</a>
+                            
+                        </li>
+						
+						<li class="dropdown"><a href="venue.html">Venue</a>
+                            
+                        </li>
+						
+						<li class="dropdown"><a href="registration.html">Registration</a>
+                            
+                        </li>
+						
+						<li class="dropdown"><a href="abstracts.html">Abstracts</a></li>
+						
+						<li class="dropdown"><a href="travel.html">Travel</a>
+                            
+                        </li>
+						
+						<li class="dropdown"><a href="crete.html">Crete</a>
+                            
+                        </li>
+						
+						<li class="dropdown"><a href="travel-awards.html">Travel Awards</a></li>
+						
+                        <li class="dropdown"><a href="sponsors.html">Sponsors</a>
+                            
+                        </li>
+                        
+                        <li><a href="contact.html">Contact</a></li>
+						
+                    </ul>
+                </div>
+            </nav>
+            <!--Main Menu End-->
+            
+        </div>
+    </header>
+    <!--End Main Header -->
+    
+    <!-- Page Banner -->
+    <section class="page-banner" style="background-image:url(images/main-slider/image-2.jpg);">
+    	<div class="auto-container">
+        	<h1>Speakers</h1>
+        </div>
+    </section>
+    
+    <!--Speakers-->
+    <section class="team-section">
+    	<div class="auto-container">
+            
+			
+            <div class="row clearfix">
+				<div class="auto-container">
+					
+				</div>
+            	<!--Speaker1-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s1.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="https://ccr.cancer.gov/Laboratory-of-Genome-Integrity/avinash-bhandoola" target="_blank">Bhandoola, Avinash</a></h5>
+                                <span class="occupation">USA</span>
+                            </div>
+                            <div class="desc"><p>National Cancer Institute, National Institutes of Health Bethesda</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker2-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s2.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="http://www.hudendritic.org/" target="_blank">Bigley, Venetia</a></h5>
+                                <span class="occupation">UK</span>
+                            </div>
+                            <div class="desc"><p>Newcastle University</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker3-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s3.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="https://eng.sheba.co.il/Yehudit_Birger" target="_blank">Birger, Yehudit</a></h5>
+                                <span class="occupation">Israel</span>
+                            </div>
+                            <div class="desc"><p>Sheba Medical Center, Tel Hashomer</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker4-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s4.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="http://www.crb.wisc.edu/faculty/bresnick.asp" target="_blank">Bresnick, Emery</a></h5>
+                                <span class="occupation">USA</span>
+                            </div>
+                            <div class="desc"><p>University of Wisconsin, Madison</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker5-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s5.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="http://crispinolab.weebly.com/john-crispino-phd.html" target="_blank">Crispino, John</a></h5>
+                                <span class="occupation">USA</span>
+                            </div>
+                            <div class="desc"><p>Northwestern University, Chicago</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker6-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s6.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="https://www.erasmusmc.nl/MScMM/faculty/CVs/delwel_cv?lang=en" target="_blank">Delwel, Ruud</a></h5>
+                                <span class="occupation">the Netherlands</span>
+                            </div>
+                            <div class="desc"><p>Erasmus Medical Center, Rotterdam</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker7-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s7.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="http://www.ed.ac.uk/cancer-centre/research/dzierzak-group/laboratory-haematological-regeneration" target="_blank">Dzierzak, Elaine</a></h5>
+                                <span class="occupation">UK</span>
+                            </div>
+                            <div class="desc"><p>University of Edinburgh</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker8-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s8.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="http://www-personal.umich.edu/~engel/biography.html" target="_blank">Engel, Doug</a></h5>
+                                <span class="occupation">USA</span>
+                            </div>
+                            <div class="desc"><p>University of Michigan, Ann Arbor</p></div>
+                            
+                        </div>
+                        
+                    </div>
+				</article>
+				<!--Speaker9-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s9.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="https://www.researchgate.net/profile/Laura_Gutierrez11" target="_blank">Gutierrez, Laura</a></h5>
+                                <span class="occupation">Spain</span>
+                            </div>
+                            <div class="desc"><p>Instituto de Investigación Sanitaria del Principado de Asturias (ISPA), University of Oviedo</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker10-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s10.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5 style="font-size: 14px;"><a href="https://www.mskcc.org/research-areas/labs/anna-katerina-hadjantonakis" target="_blank">Hadjantonakis, Anna-Katerina</a></h5>
+                                <span class="occupation">USA</span>
+                            </div>
+                            <div class="desc"><p>Memorial Sloan Kettering Cancer Center</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+                <!--Speaker11-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s11.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="https://www.erasmusmc.nl/content/3025942/3114900/hendriks?lang=en" target="_blank">Hendriks, Rudi</a></h5>
+                                <span class="occupation">the Netherlands</span>
+                            </div>
+                            <div class="desc"><p>Erasmus Medical Center, Rotterdam</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker12-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s12.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="http://www.pathology.washington.edu/faculty/horwitz" target="_blank">Horwitz, Marshall</a></h5>
+                                <span class="occupation">USA</span>
+                            </div>
+                            <div class="desc"><p>University of Washington, Seattle</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker13-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s13.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="https://medicine.umich.edu/dept/cdb/tomonori-hosoya" target="_blank">Hosoya, Tomonori</a></h5>
+                                <span class="occupation">USA</span>
+                            </div>
+                            <div class="desc"><p>University of Michigan, Ann Arbor</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker14-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s14.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="http://sydney.edu.au/science/people/jacqueline.matthews.php" target="_blank">Matthews, Jacqueline</a></h5>
+                                <span class="occupation">Australia</span>
+                            </div>
+                            <div class="desc"><p>University of Sydney</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker15-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s15.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="http://wcm.ucalgary.ca/mcgheelab/" target="_blank">Mc Ghee, Jim</a></h5>
+                                <span class="occupation">Canada</span>
+                            </div>
+                            <div class="desc"><p>University of Calgary</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker16-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s16.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="https://www.unibo.it/sitoweb/annarita.migliaccio/en" target="_blank">Migliaccio, Anna-Rita</a></h5>
+                                <span class="occupation">Italy</span>
+                            </div>
+                            <div class="desc"><p>University of Bologna</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker17-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s17.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="http://faculty.uottawa.ca/nemer-mona/" target="_blank">Nemer, Mona</a></h5>
+                                <span class="occupation">Canada</span>
+                            </div>
+                            <div class="desc"><p>University of Ottawa</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker18-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s18.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="http://www.imm.ox.ac.uk/claus-nerlov-2" target="_blank">Nerlov, Claus</a></h5>
+                                <span class="occupation">UK</span>
+                            </div>
+                            <div class="desc"><p>Weatherall Institute for Molecular Medicine and University of Oxford</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker19-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s19b.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="http://www.imm.ox.ac.uk/roger-patient" target="_blank">Patient, Roger</a></h5>
+                                <span class="occupation">UK</span>
+                            </div>
+                            <div class="desc"><p>Weatherall Institute for Molecular Medicine and University of Oxford</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker20-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s20.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="http://www.imm.ox.ac.uk/catherine-porcher-2" target="_blank">Porcher, Catherine</a></h5>
+                                <span class="occupation">UK</span>
+                            </div>
+                            <div class="desc"><p>Weatherall Institute for Molecular Medicine and University of Oxford</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker21-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s21.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="http://gdt-silver-server.biol.biologie.uni-tuebingen.de/info.html" target="_blank">Reuter, Rolf</a></h5>
+                                <span class="occupation">Germany</span>
+                            </div>
+                            <div class="desc"><p>University of Tübingen</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker22-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s22.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="http://www.imm.ox.ac.uk/irene-roberts-3" target="_blank">Roberts, Irene</a></h5>
+                                <span class="occupation">UK</span>
+                            </div>
+                            <div class="desc"><p>University of Oxford</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker23-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s23.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="" target="_blank">Rojas, Anabel</a></h5>
+                                <span class="occupation">Spain</span>
+                            </div>
+                            <div class="desc"><p>Andalusian Molecular Biology and Regenerative Medicine Centre, Seville
+</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker24-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s24.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="http://www.bbe.caltech.edu/content/ellen-rothenberg" target="_blank">Rothenberg, Ellen</a></h5>
+                                <span class="occupation">USA</span>
+                            </div>
+                            <div class="desc"><p>Caltech, Pasadena</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker25-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s25.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="http://www.helsinki.fi/pharmacy/pharm/en/Research/Heart.html" target="_blank">Ruskoaho, Heikki</a></h5>
+                                <span class="occupation">Finland</span>
+                            </div>
+                            <div class="desc"><p>University of Helsinki</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker26-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s26.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="http://biology.nd.edu/people/robert-a-schulz/" target="_blank">Schulz, Bob</a></h5>
+                                <span class="occupation">USA</span>
+                            </div>
+                            <div class="desc"><p>University of Notre Dame</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker27-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s27.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="http://www.exphem.med.tohoku.ac.jp/toppage.html" target="_blank">Shimizu, Ritsuko</a></h5>
+                                <span class="occupation">Japan</span>
+                            </div>
+                            <div class="desc"><p>Tohoku University, Sendai</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker28-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s28.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="http://www.imbb.forth.gr/imbb-people/en/strouboulis-home" target="_blank">Strouboulis, John</a></h5>
+                                <span class="occupation">Greece</span>
+                            </div>
+                            <div class="desc"><p>Institute of Molecular Biology and Biotechnology-FORTH, Crete</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker29-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s29.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="https://www.researchgate.net/profile/Mikiko_Suzuki" target="_blank">Suzuki, Mikiko</a></h5>
+                                <span class="occupation">Japan</span>
+                            </div>
+                            <div class="desc"><p>Tohoku University, Sendai</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker30-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s30.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="http://www.vetmed.ufl.edu/about-the-college/faculty-directory/sergei-tevosian/" target="_blank">Tevosian, Sergei</a></h5>
+                                <span class="occupation">USA</span>
+                            </div>
+                            <div class="desc"><p>University of Florida, Gainesville</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				
+				<!--Speaker30b-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s34.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="http://www.imm.ox.ac.uk/paresh-vyas-2" target="_blank">Vyas, Paresh</a></h5>
+                                <span class="occupation">UK</span>
+                            </div>
+                            <div class="desc"><p>Weatherall Institute for Molecular Medicine and University of Oxford</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				
+				<!--Speaker31-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s31.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="https://experts.umich.edu/en/persons/ryan-wilcox" target="_blank">Wilcox, Ryan</a></h5>
+                                <span class="occupation">USA</span>
+                            </div>
+                            <div class="desc"><p>University of Michigan, Ann Arbor</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker32-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s32b.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="http://www.nm-gcoe.med.tohoku.ac.jp/english/investigators/yamamoto/" target="_blank">Yamamoto, Masayuki</a></h5>
+                                <span class="occupation">Japan</span>
+                            </div>
+                            <div class="desc"><p>Tohoku University, Sendai</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				<!--Speaker33-->
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s33.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="https://www.niaid.nih.gov/research/jinfang-zhu-phd" target="_blank">Zhu, Jinfang Jeff</a></h5>
+                                <span class="occupation">USA</span>
+                            </div>
+                            <div class="desc"><p>National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				
+				<!--Speaker-->
+				<!--
+                <article class="col-lg-3 col-md-4 col-sm-6 col-xs-12 team-member wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                	<div class="inner">
+                        <figure class="member-image"><img src="images/speakers/s.jpg" alt="" title=""></figure>
+                        <div class="lower">
+                        	<div class="member-title">
+                            	<h5><a href="" target="_blank">Speaker</a></h5>
+                                <span class="occupation"></span>
+                            </div>
+                            <div class="desc"><p>Institute</p></div>
+                            
+                        </div>
+                        
+                    </div>
+                </article>
+				-->
+                
+            </div>
+            
+        </div>
+    </section>
+    
+    
+    
+    <!--Main Footer-->
+    <footer class="main-footer">
+    	<!--Footer Upper-->
+    	<div class="footer-upper">
+		
+			<div class="auto-container">
+            	<div class="row clearfix">
+                	
+                    <!--Footer Widget-->
+                    <div class="col-md-9 col-sm-9 col-xs-12 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    	<div class="footer-widget contact-widget">
+                        	<div class="text">Copyright 2018 - <a href="http://www.meetis.gr" target="_blank">Meetis.gr</a></div>
+                        </div>
+                    </div>
+					
+					
+				</div>
+			</div>
+			
+        	
+			
+			
+        </div>
+        
+        
+    </footer>
+        
+        
+        
+        
+    </footer>
+    
+</div>
+<!--End pagewrapper-->
+
+<!--Scroll to top-->
+<div class="scroll-to-top"></div>
+
+
+<script src="js/jquery.js"></script> 
+<script src="js/bootstrap.min.js"></script>
+<script src="js/revolution.min.js"></script>
+<script src="js/bxslider.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/jquery.fancybox.pack.js"></script>
+<script src="js/wow.js"></script>
+<script src="js/jquery.countdown.js"></script>
+<script src="js/script.js"></script>
+</body>
+</html>

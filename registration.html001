@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>gata2018.org</title>
+<!-- Stylesheets -->
+<link href="css/bootstrap.css" rel="stylesheet">
+<link href="css/revolution-slider.css" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
+<!-- Responsive -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<link href="css/responsive.css" rel="stylesheet">
+<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+</head>
+
+<body>
+<div class="page-wrapper">
+ 	
+    <!-- Preloader -->
+    <div class="preloader"></div>
+ 	
+    <!-- Main Header -->
+    <header class="main-header">
+    	<div class="auto-container clearfix">
+        	<!--Logo-->
+            <!--<div class="logo"><a href="index-2.html"><img src="images/logo.jpg" alt="Meeton" title="Meeton"></a></div>-->
+            
+            <!--Main Menu-->
+            <nav class="main-menu">
+                <div class="navbar-header">
+                    <!-- Toggle Button -->      
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                
+                <div class="navbar-collapse collapse clearfix">                                                                                              
+                    <ul class="navigation">
+                        <li class="dropdown"><a href="index.html">Home</a>
+                            
+                        </li>
+                        
+                        <li class="dropdown"><a href="organizers.html">Organizers</a>
+                            
+                        </li>
+						<li class="dropdown"><a href="speakers.html">Speakers</a>
+                            
+                        </li>
+                        <li class="dropdown"><a href="program.html">Program</a>
+                            
+                        </li>
+						
+						<li class="dropdown"><a href="venue.html">Venue</a>
+                            
+                        </li>
+						
+						<li class="current dropdown"><a href="registration.html">Registration</a>
+                            
+                        </li>
+						
+						<li class="dropdown"><a href="abstracts.html">Abstracts</a></li>
+						
+						<li class="dropdown"><a href="travel.html">Travel</a>
+                            
+                        </li>
+						
+						<li class="dropdown"><a href="crete.html">Crete</a>
+                            
+                        </li>
+						
+						<li class="dropdown"><a href="travel-awards.html">Travel Awards</a></li>
+						
+                        <li class="dropdown"><a href="sponsors.html">Sponsors</a>
+                            
+                        </li>
+                        
+                        <li><a href="contact.html">Contact</a></li>
+						
+                    </ul>
+                </div>
+            </nav>
+            <!--Main Menu End-->
+            
+        </div>
+    </header>
+    <!--End Main Header -->
+    
+    <!-- Page Banner -->
+    <section class="page-banner" style="background-image:url(images/main-slider/image-2.jpg);">
+    	<div class="auto-container">
+        	<h1>Registration and Payment</h1>
+        </div>
+    </section>
+    
+    <!--Registration-->
+    <section class="team-section">
+    	<div class="auto-container">
+            
+			
+            <div class="row clearfix">
+				
+            	
+				
+            </div>
+			
+			<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSc0wUg7cYdk8AH5GW9On-Z-oM7l0fYwKIEnrEeLIJznCAVCNg/viewform" class="theme-btn btn-style-one hvr-bounce-to-right" title="Click to register"><br>Registration fee for shared twin occupancy per person: <strong>600 €</strong><br>&nbsp;</a></p>
+			<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSc0wUg7cYdk8AH5GW9On-Z-oM7l0fYwKIEnrEeLIJznCAVCNg/viewform" class="theme-btn btn-style-one hvr-bounce-to-right" title="Click to register"><br>Registration fee for single occupancy: <strong>850 €</strong><br>&nbsp;</a></p>
+			<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSc0wUg7cYdk8AH5GW9On-Z-oM7l0fYwKIEnrEeLIJznCAVCNg/viewform" class="theme-btn btn-style-one hvr-bounce-to-right" title="Click to register"><br>Registration fee for accompanying member: <strong>450 €</strong><br>&nbsp;</a></p>
+			<p>Registration fee for accompanying member includes accommodation for 4 nights double occupancy, all meals and social events. </p>
+			<div class="alert alert-info">
+				<!--<strong>Extentend registration deadline: 21/8/2016.</strong></br>-->
+				<strong>REGISTRATION IS NOW OPEN!</strong></br>
+				
+ 
+				<strong>The registration fee includes:</strong></br>
+				-	Attendance of the Workshop and course materials (abstract book, conference bag etc.)</br>
+				-	Accommodation at Kalimera Kriti for 4 nights (28 May - 31 May 2018), single-occupancy or shared twin-occupancy (incl. breakfast)</br>
+				-	All meals, coffee breaks and social events during the meeting (28 May-31 May 2018 )</br>
+				<!-- -	Dinner for 4 evenings (3-4 and 6-7 October 2016)</br>
+				-	Transport to and from Heraklion for the free evening of October 5, 2016</br>-->
+				</br>
+				
+				<strong>PAYMENT</strong></br>
+				<strong>REGISTRATION IS NOT COMPLETE UNTIL PAYMENT HAS BEEN RECEIVED</strong></br>
+					Payment of fees is by bank transfer to the following bank account:</br>
+					<strong>Bank Name:	PIRAEUS BANK</br>
+					Bank Address:	40 Eleftherias Sq & 1 Averof Str, Heraklion, Crete, Greece</br>
+					Bank Branch:	1556</br>
+					Account Holder:	Cretan Conference & Business Service PC</br>
+					Account Number:	6556-125755-755</br>
+					Account IBAN:	GR54 0171 5560 0065 5612 5755 755</br>
+					SWIFT CODE:	PIRBGRAA</strong></br></br>
+					 
+					<strong>Please include in your payment the name of the participant.</strong></br>
+					The payee is responsible for all additional costs that may incur during electronic transfer (bank fees etc.)</br>
+				
+				
+ 
+				Alternative way of payment: </br>
+				Link for payment by using credit card:</br>
+				<strong><a href="https://www.livepay.gr/ccbs-1.aspx" target="_blank">https://www.livepay.gr/ccbs-1.aspx</a></strong>
+
+				 <p></br>
+				<strong>In case you have any problems with the payment please contact:</strong></br>
+				CCBS Greece PC</br>
+				Conference Dept</br>
+				6, Pediados str, Heraklion</br>
+				PC71201, Crete</br>
+				Tel: +30 210 9244499</br>
+				
+				Email: <a href="mailto:Gata2018@ccbsgreece.gr">Gata2018@ccbsgreece.gr</a>  </br>
+				contact person Mrs. Katerina Dionysopoulou
+				</p>
+				<p>&nbsp;</p>
+				<p><strong>Cancellation policy</strong></p>
+				
+				<p><strong>Fees will be refunded if notification of cancellation is received by email as follows:</strong></p>
+				
+				<p><strong>-	Before 30 April 2018: a 30 euro service fee will be charged.</strong></p>
+				
+				<p><strong>-	From 1st of May 2018 - 14 May 2018 : 400 euros for single occupancy and 300 euros for shared occupancy per person. </strong></p>
+				
+				<p><strong>-	From 15 May 2018: 100% of the registration fee. </strong></p>
+
+			</div>
+								
+								
+		</div>
+            
+        
+    </section>
+    
+    
+    
+    <!--Main Footer-->
+    <footer class="main-footer">
+    	<!--Footer Upper-->
+    	<div class="footer-upper">
+		
+			<div class="auto-container">
+            	<div class="row clearfix">
+                	
+                    <!--Footer Widget-->
+                    <div class="col-md-9 col-sm-9 col-xs-12 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    	<div class="footer-widget contact-widget">
+                        	<div class="text">Copyright 2018 - <a href="http://www.meetis.gr" target="_blank">Meetis.gr</a></div>
+                        </div>
+                    </div>
+					
+					
+				</div>
+			</div>
+			
+        	
+			
+			
+        </div>
+        
+        
+    </footer>
+    
+</div>
+<!--End pagewrapper-->
+
+<!--Scroll to top-->
+<div class="scroll-to-top"></div>
+
+
+<script src="js/jquery.js"></script> 
+<script src="js/bootstrap.min.js"></script>
+<script src="js/revolution.min.js"></script>
+<script src="js/bxslider.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/jquery.fancybox.pack.js"></script>
+<script src="js/wow.js"></script>
+<script src="js/jquery.countdown.js"></script>
+<script src="js/script.js"></script>
+</body>
+</html>
